@@ -1,0 +1,27 @@
+body
+{
+    color: black;
+    text-align: justify;
+}
+header
+{
+    background-color: lightseagreen;
+    text-align: center;
+}
+.main article
+{
+    background-color: cornflowerblue;
+}
+.main aside
+{
+    background-color: coral;
+}
+.color
+{
+    background-color: lightsteelblue;
+}
+footer
+{
+    background-color: lightseagreen;
+    text-align: center;
+}
